@@ -74,7 +74,7 @@ fun LoginScreen(context: Context, databaseHelper: UserDatabaseHelper) {
         {
 
             Image(
-                painter = painterResource(R.drawable.podcast_login),
+                painter = painterResource(R.drawable.podcast_in),
                 contentDescription = "", Modifier.height(400.dp).fillMaxWidth()
             )
 
